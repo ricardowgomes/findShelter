@@ -22,7 +22,26 @@ Find shelter is a community focused application to help people of all walks of l
 
 #### View of the project
 
-![images and gifs](./docs/image.jpeg)
+Real-time reservations
+![reservation-gif](./docs/real-time-av.gif)
+
+Index
+![index](./docs/index.png)
+
+Map View
+![mapview](./docs/map-view.png)
+
+Dashboard
+![dashboard](./docs/dashboard.png)
+
+Mobile
+![mobile](./docs/dashboard-mobile.png)
+
+Book reservation
+![reservation-form](./docs/reservation-form.png)
+
+Reservations
+![reservations](./docs/reservations.png)
 
 ---
 
